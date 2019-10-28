@@ -13,6 +13,10 @@ Widgets for AnyStatus to provide capability to check various RabbitMq metrics.
 -  [x] VirtualHost Queues Statistics [queues with too many unprocessed messages, consumer count info]
 -  [x] VirtualHost Policies checker
 
+### Install
+
+Download [AnyStatus.Plugins.RabbitMq.dll](https://github.com/mt89vein/AnyStatus.RabbitMq/releases/download/1.0.0/AnyStatus.Plugins.RabbitMq.dll), or visit the releases page and build it from sources.
+
 ## Contribute
 
 Feel free for creation issues, or PR :)
