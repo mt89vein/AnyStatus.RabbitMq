@@ -5,7 +5,7 @@ Widgets for AnyStatus to provide capability to check various RabbitMq metrics.
 
 ![Screenshot](https://raw.githubusercontent.com/mt89vein/AnyStatus.RabbitMq/master/docs/screenshot.png)
 
-### Avaliable Widgets
+### Available Widgets
 
 -  [x] Cluster/Node Health Check
 -  [x] Cluster/Node Memory Usage
